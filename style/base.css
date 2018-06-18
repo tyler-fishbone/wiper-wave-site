@@ -1,0 +1,48 @@
+body {
+    background-color: #91daff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.3em;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+h5 {
+    font-size: 1.1em;
+}
+
+
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+#nav-bar {
+    background-color: #2bde73;
+}
+
+button {
+    background-color: #2bde73
+    border
+}
+
+a {
+    text-decoration: none;
+}
