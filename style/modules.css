@@ -1,10 +1,12 @@
+/* header */
+
 header #announcement-bar {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.3);
     text-align: center;
 }
 
 header #announcement-bar * {
-    padding: 10px;
+    padding: 5px;
     color: black;
 }
 
@@ -16,5 +18,101 @@ header #announcement-bar button {
     border-radius: 10px;
 }
 
+header #title {
+    padding: 50px 0px;
+}
+
+header #title img {
+    display: block;
+    width: 381px;
+    margin: auto;
+}
+
+header nav {
+    background-color: #2bde73;
+}
+
+header nav ul {
+    margin: auto;
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline-block;
+    text-align: center;
+}
+
+header nav ul li a {
+    font-size: 1.2em;
+    text-transform: capitalize;
+    padding: 0px 26px;
+    line-height: 65px;
+}
+
+/* video and first cta */
+
+#vid-and-cta {
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 80px;
+}
+
+#vid-and-cta #video iframe{
+    display: block;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+#vid-and-cta #headline-and-cta {
+    padding-bottom: 40px;
+}
+
+#vid-and-cta #headline-and-cta h2{
+    text-align: center;
+    margin: 20px 0px;
+}
+
+#vid-and-cta #headline-and-cta button {
+    display: block;
+    margin: auto;
+    font-size: 1.7em;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+/* testamonials */
+
+#testamonial {
+    padding: 60px;
+}
 
 
+#testamonial h2 {
+    text-align: center;
+    padding: 40px;
+}
+
+#testamonial img {
+    display: block;
+    margin: auto;
+    width: 600px;
+}
+
+#testamonial #testamonial-text {
+    width: 60%;
+    margin: auto;
+}
+
+#testamonial h3 {
+    margin: 40px auto;
+    text-align: center;
+    line-height: 30px;
+}
+
+/* bottom buy section */
+
+
+/* footer */
+
+footer {
+    height: 300px;
+}
