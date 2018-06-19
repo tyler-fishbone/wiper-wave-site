@@ -110,9 +110,23 @@ header nav ul li a {
 
 /* bottom buy section */
 
+#bottom-buy-section {
+    background-color: rgba(255, 255, 255, 0.3);
+    text-align: center;
+}
+
+#bottom-buy-section * {
+    padding: 10px 10px 0px;
+}
+
+#bottom-buy-section a {
+    font-size: 1.3em;
+}
+
+#bottom-buy-section img {
+    width: 70%;
+    padding-bottom: 0px;
+}
 
 /* footer */
 
-footer {
-    height: 300px;
-}
