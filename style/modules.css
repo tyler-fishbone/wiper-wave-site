@@ -123,11 +123,12 @@ header nav ul li a {
   color: black;
   font-size: 1em;
   border-radius: 10px;
-}
-
-#bottom-buy-section button a {
   padding: 5px;
 }
+/* 
+#bottom-buy-section button a {
+  padding: 5px;
+} */
 
 #bottom-buy-section img {
     width: 70%;
