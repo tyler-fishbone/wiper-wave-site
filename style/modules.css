@@ -125,6 +125,10 @@ header nav ul li a {
   border-radius: 10px;
 }
 
+#bottom-buy-section button a {
+  padding: 5px;
+}
+
 #bottom-buy-section img {
     width: 70%;
     padding-bottom: 0px;
